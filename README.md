@@ -237,3 +237,11 @@ This Challenge is graded based on the following criteria:
   * Includes column definitions for all four models outlined in the Challenge instructions.
 
   * Includes model associations outlined in the Challenge instructions.
+
+
+
+
+
+
+
+  https://stackoverflow.com/questions/50354817/sequelize-decimal-data-save-with-2-decimal-points
